@@ -1,0 +1,6 @@
+fine 1
+line 1
+fine 2
+line 2
+fine 2
+line 2
